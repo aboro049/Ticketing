@@ -8,3 +8,4 @@ Git is an intresting thing to learn
 Showing the head changes
 Addting a new line of text from bugfix
 Its a bright & sunny day
+We are adding new line from the GUI
