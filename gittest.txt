@@ -1,0 +1,5 @@
+This is a test file for cohort 8. The expectation is that we will have refreshed out memory from last class
+1. Refreshed our memory on the last class
+2. learnt about git branch
+3. open a git repository
+4. push our code from the local to the remote repository.
