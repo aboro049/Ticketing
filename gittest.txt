@@ -3,3 +3,4 @@ This is a test file for cohort 8. The expectation is that we will have refreshed
 2. learnt about git branch
 3. open a git repository
 4. push our code from the local to the remote repository.
+we are add a new line to this file
