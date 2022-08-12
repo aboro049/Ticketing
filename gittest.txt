@@ -7,3 +7,4 @@ we are add a new line to this file
 Git is an intresting thing to learn
 Showing the head changes
 Addting a new line of text from bugfix
+Its a bright & sunny day
